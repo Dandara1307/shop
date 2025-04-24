@@ -1,0 +1,6 @@
+opencv-python
+pyzbar
+pandas
+fpdf
+python-barcode
+Pillow
